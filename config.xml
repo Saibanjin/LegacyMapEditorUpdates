@@ -7,7 +7,7 @@
     <TargetDir>@HomeDir@/LegacyMapEditor</TargetDir>
     <RemoteRepositories>
         <Repository>
-            <Url>https://saibanjin.github.io/LegacyMapEditorUpdates/docs/</Url>
+            <Url>https://saibanjin.github.io/LegacyMapEditorUpdates/</Url>
         </Repository>
     </RemoteRepositories>
 </Installer>
