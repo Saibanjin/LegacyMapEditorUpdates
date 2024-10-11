@@ -1,13 +1,13 @@
-<Installer> 
-    <Name>Legacy Map Editor</Name> 
-    <Version>1.0.1</Version> 
-    <Title>Legacy Map Editor Installer</Title> 
-    <Publisher>Gateway Development L.L.C.</Publisher> 
-    <StartMenuDir>LegacyMapEditor</StartMenuDir> 
-    <TargetDir>@HomeDir@/LegacyMapEditor</TargetDir> 
-    <RemoteRepositories> 
-        <Repository> 
-            <Url>https://saibanjin.github.io/LegacyMapEditorUpdates/</Url> 
-        </Repository> 
-    </RemoteRepositories> 
-</Installer> 
+<Installer>  
+    <Name>Legacy Map Editor</Name>  
+    <Version>1.0.2</Version>  
+    <Title>Legacy Map Editor Installer</Title>  
+    <Publisher>Gateway Development L.L.C.</Publisher>  
+    <StartMenuDir>LegacyMapEditor</StartMenuDir>  
+    <TargetDir>@HomeDir@/LegacyMapEditor</TargetDir>  
+    <RemoteRepositories>  
+        <Repository>  
+            <Url>https://saibanjin.github.io/LegacyMapEditorUpdates/</Url>  
+        </Repository>  
+    </RemoteRepositories>  
+</Installer>  
