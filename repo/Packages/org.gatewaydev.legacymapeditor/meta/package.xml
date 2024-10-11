@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Package>
+    <DisplayName>Legacy Map Editor</DisplayName>
+    <Description>Legacy Map Editor application</Description>
+    <Version>1.0.0</Version> <!-- This version will increment with each update -->
+    <ReleaseDate>2024-10-04</ReleaseDate>
+    <Default>true</Default>
+    <Name>org.gatewaydev.legacymapeditor</Name>
+</Package>
