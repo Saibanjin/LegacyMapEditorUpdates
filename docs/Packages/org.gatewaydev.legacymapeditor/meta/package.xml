@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Package>
-    <DisplayName>Legacy Map Editor</DisplayName>
-    <Description>Legacy Map Editor by Gateway Development L.L.C.</Description>
-    <Version>1.0.0</Version>
-    <ReleaseDate>2024-01-01</ReleaseDate> <!-- You can update this date -->
-    <Default>true</Default>
-    <Script>installscript.qs</Script> <!-- Optional, only if you have a script -->
+  <DisplayName>Legacy Map Editor</DisplayName>
+  <Description>The map editor for Legacy projects.</Description>
+  <Version>1.0.0</Version>
+  <ReleaseDate>2024-10-01</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
 </Package>
