@@ -9,7 +9,7 @@
     <!-- Add repository for online updates -->
     <RemoteRepositories>
         <Repository>
-            <Url>https://Saibanjin.github.io/LegacyMapEditorUpdates</Url>
+            <Url>https://saibanjin.github.io/LegacyMapEditorUpdates/</Url>
             <Enabled>1</Enabled>
         </Repository>
     </RemoteRepositories>
