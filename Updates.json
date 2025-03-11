@@ -1,14 +1,14 @@
-{          
-  "ApplicationName": "Legacy Map Editor",          
-  "ApplicationVersion": "1.0.6",  // Update with the latest version number          
-  "Checksum": true,          
-  "Packages": [          
-    {          
-      "Name": "org.gatewaydev.legacymapeditor",          
-      "DisplayName": "Legacy Map Editor",          
-      "Version": "1.0.6",  // Update with the latest version number          
-      "ReleaseDate": "2024-10-01",          
-      "Update": true          
-    }          
-  ]          
-}          
+{            
+  "ApplicationName": "Legacy Map Editor",            
+  "ApplicationVersion": "1.0.6",  // Update with the latest version number            
+  "Checksum": true,            
+  "Packages": [            
+    {            
+      "Name": "org.gatewaydev.legacymapeditor",            
+      "DisplayName": "Legacy Map Editor",            
+      "Version": "1.0.6",  // Update with the latest version number            
+      "ReleaseDate": "2024-10-01",            
+      "Update": true            
+    }            
+  ]            
+}            
