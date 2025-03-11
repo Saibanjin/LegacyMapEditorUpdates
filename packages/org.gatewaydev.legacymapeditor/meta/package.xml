@@ -1,8 +1,8 @@
-<Package>         
-  <DisplayName>Legacy Map Editor</DisplayName>         
-  <Description>The map editor for Legacy projects.</Description>         
-  <Version>1.0.5</Version>  <!-- Update with the latest version number -->         
-  <ReleaseDate>2024-10-01</ReleaseDate>         
-  <Default>true</Default>         
-  <Script>installscript.qs</Script>         
-</Package>         
+<Package>          
+  <DisplayName>Legacy Map Editor</DisplayName>          
+  <Description>The map editor for Legacy projects.</Description>          
+  <Version>1.0.6</Version>  <!-- Update with the latest version number -->          
+  <ReleaseDate>2024-10-01</ReleaseDate>          
+  <Default>true</Default>          
+  <Script>installscript.qs</Script>          
+</Package>          
